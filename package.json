@@ -3,12 +3,18 @@
   "version": "1.0.0",
   "description": "A Pen created at CodePen.io. You can find this one at http://codepen.io/gustsu/pen/awpEdY.",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustsu/get-mel-final.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustsu/get-mel-final/issues"
+  },
+  "homepage": "https://github.com/gustsu/get-mel-final#readme"
 }
